@@ -3,7 +3,7 @@
 > **A Vision-Language AI Framework for Automated, Explainable Radiology Reporting**
 
 ## Abstract
-Accurate interpretation of chest radiographs is critical for diagnosing thoracic conditions but remains a complex, expertise-driven task. [cite_start]This project introduces the **Multimodal Chest Disease Diagnosis System**, an AI-driven framework that generates structured, radiologist-style reports directly from chest X-ray images[cite: 117, 118]. 
+Accurate interpretation of chest radiographs is critical for diagnosing thoracic conditions but remains a complex, expertise-driven task. This project introduces the **Multimodal Chest Disease Diagnosis System**, an AI-driven framework that generates structured, radiologist-style reports directly from chest X-ray images[cite: 117, 118]. 
 
 [cite_start]Unlike traditional classifiers that output fixed labels, our system leverages a **fine-tuned Qwen 2.5 7B Vision-Language Model (VLM)** to produce "chain-of-thought" reasoning traces and diagnostic narratives[cite: 119]. [cite_start]By combining **Supervised Fine-Tuning (SFT)** on a hybrid dataset with **Reinforcement Learning (RL)**, we achieved State-of-the-Art (SOTA) comparable performance in generating linguistically fluent and factually grounded reports[cite: 121, 372].
 
