@@ -53,7 +53,7 @@ The system produces structured outputs containing `Findings`, `Impression`, and 
 ![Sample Output](assets/image.png)
 
 
-*(See full report analysis in the `docs/` folder)*
+*(See full report analysis in the `docs/` folder)* 
 
 ---
 
